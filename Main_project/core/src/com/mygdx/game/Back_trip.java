@@ -13,7 +13,7 @@ public class Back_trip extends ApplicationAdapter {
 	@Override
 	public void create () {
 		batch = new SpriteBatch();
-		img = new Texture("badlogic.jpg");
+		img = new Texture("main_map_2");
 	}
 
 	@Override
